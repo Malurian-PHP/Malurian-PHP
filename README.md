@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Malurian-PHP
-- 👀 I’m interested in makinga difference
-- 🌱 I’m currently learning Game Design 
-- 💞️ I’m looking to collaborate on any game design projects
-- 📫 How to reach me? try fanasticnesi@gmail.com
+- 👀 Working on making a difference
+- 🌱 Currently learning Game Development 
+- 💞️ Let's collaborate on unity projecs
+- 📫 Reach me on fanasticnesi@gmail.com or on discord using Malurian
 
 <!---
 Malurian-PHP/Malurian-PHP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
